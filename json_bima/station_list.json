@@ -1,0 +1,418 @@
+{
+    "MS01": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.57,
+            94.032,
+            190.0
+        ]
+    },
+    "MS02": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.606,
+            93.696,
+            1495.0
+        ]
+    },
+    "MS03": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.153,
+            93.437,
+            1532.0
+        ]
+    },
+    "MS04": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            22.83,
+            93.996,
+            154.0
+        ]
+    },
+    "MS05": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            22.586,
+            94.509,
+            134.0
+        ]
+    },
+    "MS06": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.521,
+            95.664,
+            190.0
+        ]
+    },
+    "MS07": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            22.34,
+            95.772,
+            55.0
+        ]
+    },
+    "MS08": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            22.691,
+            95.321,
+            88.0
+        ]
+    },
+    "MS09": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.478,
+            96.08,
+            72.0
+        ]
+    },
+    "MS10": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.316,
+            95.241,
+            160.0
+        ]
+    },
+    "MS11": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.573,
+            94.055,
+            185.0
+        ]
+    },
+    "MP01": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.351,
+            93.572,
+            1424.0
+        ]
+    },
+    "MP02": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.298,
+            93.641,
+            1400.0
+        ]
+    },
+    "MP03": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.236,
+            93.728,
+            1520.0
+        ]
+    },
+    "MP04": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.224,
+            93.843,
+            1500.0
+        ]
+    },
+    "MP05": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.217,
+            93.953,
+            235.0
+        ]
+    },
+    "MP06": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.245,
+            94.041,
+            93.0
+        ]
+    },
+    "MP07": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.232,
+            94.134,
+            90.0
+        ]
+    },
+    "MP08": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.26,
+            94.236,
+            122.0
+        ]
+    },
+    "MP09": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.197,
+            94.304,
+            82.0
+        ]
+    },
+    "MP10": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.181,
+            94.371,
+            90.0
+        ]
+    },
+    "MP11": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.193,
+            94.431,
+            140.0
+        ]
+    },
+    "MP13": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.202,
+            94.61,
+            200.0
+        ]
+    },
+    "MP14": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.152,
+            94.832,
+            250.0
+        ]
+    },
+    "MP16": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            22.999,
+            95.154,
+            190.0
+        ]
+    },
+    "MP18": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.048,
+            95.535,
+            140.0
+        ]
+    },
+    "MP19": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.048,
+            95.669,
+            155.0
+        ]
+    },
+    "MP20": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.055,
+            95.934,
+            90.0
+        ]
+    },
+    "MP21": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.12,
+            96.124,
+            145.0
+        ]
+    },
+    "MP22": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.045,
+            95.832,
+            160.0
+        ]
+    },
+    "MP23": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.105,
+            96.018,
+            70.0
+        ]
+    },
+    "MP25": {
+        "network": "XR",
+        "channels": [
+            "HH1",
+            "HH2",
+            "HHZ"
+        ],
+        "coords": [
+            23.369,
+            93.414,
+            1020.0
+        ]
+    }
+}
