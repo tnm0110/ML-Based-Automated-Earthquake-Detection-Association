@@ -13,7 +13,7 @@ This workflow was developed as part of the **BIMA project** (Bangladesh India My
 - Association of detected picks into events
 - Generation of station metadata in EQTransformer-compatible format
 
-The output **`Y2000.phs`** file from EQTransformer was further used as input to the **HYPOINVERSE** location program to relocate local deep earthquakes in **Myanmar**.
+The output **`Y2000.phs`** file from EQTransformer was further used as input to the **HYPOINVERSE** location program to relocate local deep earthquakes in **Myanmar**. The deep local earthquakes are used in estimating shear wave splitting and shear wave splitting tomography using local S waves.
 
 ## 📓 Notebook
 
