@@ -27,8 +27,10 @@ The main Jupyter notebook [`eqt_detection.ipynb`](./eqt_detection.ipynb) walks t
 
 ## 🗂 Directory Structure
 ├── BIMA_miniseed/               # Raw MiniSEED files
+
 │   ├── MP02.XR..HH1.2019.055
 │   ├── MP02.XR..HH2.2019.055
+
 │   ├── MP02.XR..HHZ.2019.055
 │   ├── MP03.XR..HH1.2019.055
 │   ├── MP03.XR..HH2.2019.055
