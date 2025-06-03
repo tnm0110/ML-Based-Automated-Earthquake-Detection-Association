@@ -27,13 +27,36 @@ The main Jupyter notebook [`eqt_detection.ipynb`](./eqt_detection.ipynb) walks t
 
 ## 🗂 Directory Structure
 ├── BIMA_miniseed/               # Raw MiniSEED files
+│   ├── MP02.XR..HH1.2019.055
+│   ├── MP02.XR..HH2.2019.055
+│   ├── MP02.XR..HHZ.2019.055
+│   ├── MP03.XR..HH1.2019.055
+│   ├── MP03.XR..HH2.2019.055
+│   └── MP03.XR..HHZ.2019.055
 ├── BIMA_miniseed_processed/     # Renamed waveform files for EQTransformer
+│   ├── MP02/
+│   ├── MP03/
+│   └── MP04/
+├── BIMA_miniseed_hdfs/          # Converted data in HDF5 and CSV format (per station)
+│   ├── MP02.csv
+│   ├── MP02.hdf5
+│   ├── MP03.csv
+│   ├── MP03.hdf5
+│   ├── MP04.csv
+│   └── MP04.hdf5
+├── detections_bima/             # EQTransformer detection outputs by station
+│   ├── MP02_outputs/
+│   ├── MP03_outputs/
+│   └── MP04_outputs/
 ├── json_bima/
 │   └── station_list.json        # EQTransformer-compatible station metadata
 ├── association_bima/
 │   └── Y2000.phs                # Output phase file for HYPOINVERSE
 ├── eqt_detection.ipynb          # Main analysis notebook
 └── README.md
+
+
+
 
 ## 🧠 Use Case
 
