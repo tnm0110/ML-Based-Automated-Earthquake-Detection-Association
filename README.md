@@ -3,7 +3,7 @@ Automated earthquake detection and association using machine learning (EQTransfo
 
 This repository contains a complete processing workflow using [EQTransformer](https://github.com/smousavi05/EQTransformer) to detect and associate local earthquakes from MiniSEED data.
 
-## 🔍 Project Summary
+##  Project Summary
 
 This workflow was developed as part of the **BIMA project** (Bangladesh India Myanmar Array) to identify and relocate **local deep seismic events** that are **not listed in standard earthquake catalogs**. The method integrates:
 
@@ -15,7 +15,7 @@ This workflow was developed as part of the **BIMA project** (Bangladesh India My
 
 The output **`Y2000.phs`** file from EQTransformer was further used as input to the **HYPOINVERSE** location program to relocate local deep earthquakes in **Myanmar**. The deep local earthquakes are used in estimating shear wave splitting and shear wave splitting tomography using local S waves.
 
-## 📓 Notebook
+##  Notebook
 
 The main Jupyter notebook [`eqt_detection.ipynb`](./eqt_detection.ipynb) walks through all stages:
 
@@ -84,7 +84,7 @@ The main Jupyter notebook [`eqt_detection.ipynb`](./eqt_detection.ipynb) walks t
 
 
 
-## 🧠 Use Case
+##  Use Case
 
 This workflow is especially useful in:
 - Microseismicity studies
@@ -100,7 +100,7 @@ This workflow is especially useful in:
 - NumPy, Pandas, Matplotlib
 - JupyterLab/Notebook
 
-> ⚠️ EQTransformer requires a GPU and TensorFlow >= 2.5 for efficient processing.
+>  EQTransformer requires a GPU and TensorFlow >= 2.5 for efficient processing.
 
 
 
